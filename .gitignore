@@ -1,0 +1,20 @@
+# Prevent defualt files
+/plugins/
+/themes/
+/upgrade/
+/uploads/
+index.php
+
+# Files to upload
+
+# theme files
+!/themes/*
+!/themes/twentytwentyone
+!/themes/twentytwentyone/*
+
+# plugin files
+!/plugins/*
+!/plugins/relevanssi-rest-api-endpoint
+!/plugins/relevanssi-rest-api-endpoint/*
+!/plugins/relevanssi/
+!/plugins/relevanssi/*
