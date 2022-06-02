@@ -8,16 +8,16 @@
 
 **Links to relevant files**
 
-- [functions.php](./functions.php)
-- [search.php](./search.php)
+- [functions.php](./themes/twentytwentyone/functions.php)
+- [search.php](./themes/twentytwentyone/search.php)
 - fuse.js
-  - [fuzzysearch.js](./assets/js/fuzzysearch.js)
+  - [fuzzysearch.js](./themes/twentytwentyone/assets/js/fuzzysearch.js)
 - minisearch
-  - [minisearch.js](./assets/js/minisearch.js)
+  - [minisearch.js](./themes/twentytwentyone/assets/js/minisearch.js)
 - relevanssi
-  - [relevanssi plugin](../../plugins/relevanssi/)
-  - [relevanssi custom plugin for REST API functionality](../../plugins/rellevanssi-rest-api-endpoint/relevanssi-rest-api-endpoint.php)
-  - [relevanssi "did_you_mean" function ](../../plugins/relevanssi/lib/didyoumean.php)(changes done in lines 113-115)
+  - [relevanssi plugin](./plugins/relevanssi/)
+  - [relevanssi custom plugin for REST API functionality](./plugins/relevanssi-rest-api-endpoint/relevanssi-rest-api-endpoint.php)
+  - [relevanssi "did_you_mean" function ](./plugins/relevanssi/lib/didyoumean.php)(changes done in lines 113-115)
 
 ## Options
 
